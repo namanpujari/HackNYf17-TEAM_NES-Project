@@ -1,7 +1,2 @@
-# HackNYf17-TEAM_NES-Project
-Co-Founders 
-Naman, Edward, Steven 
-
-
-//We hope that our face-embeded technology will help reconnect long-lost relationships//
-
+# Ment-4-This
+This is homebase for our future web platform. 

@@ -1,0 +1,31 @@
+/* CSS added by Andrew Gabriel */
+
+.center {
+    text-align: center;
+    align-content: center;
+    align-items: center;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.homelogo {
+    width: 15%;
+    height: 15%;
+    margin: -30px;
+}
+
+.navbar-brand {
+    /*margin-right: 50px;*/
+}
+
+.headerlogo {
+    float: left;
+    margin-right: 5px;
+    width: 10%;
+    height: 10%;
+}

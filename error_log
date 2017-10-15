@@ -1,0 +1,7 @@
+[04-Apr-2017 13:37:01 America/Chicago] PHP Warning:  include(inc/navigation): failed to open stream: No such file or directory in /home1/anjix/ment.andrewtechful.com/index.php on line 6
+[04-Apr-2017 13:37:01 America/Chicago] PHP Warning:  include(inc/navigation): failed to open stream: No such file or directory in /home1/anjix/ment.andrewtechful.com/index.php on line 6
+[04-Apr-2017 13:37:01 America/Chicago] PHP Warning:  include(): Failed opening 'inc/navigation' for inclusion (include_path='.:/opt/php54/lib/php') in /home1/anjix/ment.andrewtechful.com/index.php on line 6
+[05-Apr-2017 13:33:25 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'anjix_ment'@'localhost' (using password: YES) in /home1/anjix/ment.andrewtechful.com/connection.php on line 3
+[05-Apr-2017 13:49:21 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home1/anjix/ment.andrewtechful.com/connection.php on line 8
+[05-Apr-2017 13:49:48 America/Chicago] PHP Parse error:  syntax error, unexpected 'mysqli_result' (T_STRING) in /home1/anjix/ment.andrewtechful.com/connection.php on line 8
+[05-Apr-2017 13:50:16 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_result::fetch_all() in /home1/anjix/ment.andrewtechful.com/connection.php on line 8
