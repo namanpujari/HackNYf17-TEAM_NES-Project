@@ -1,4 +1,4 @@
-# Team-N.E.S.
+# Indagator
 
 Co-Founders
 Naman, Edward, Steven
